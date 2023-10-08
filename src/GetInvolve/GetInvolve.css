@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Homemade+Apple&family=Oswald:wght@500&family=Poppins:wght@200;400&display=swap");
+.get-involve-home {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
+.get-involve {
+  background-color: rgb(240, 173, 173);
+}
+.w-16 {
+  width: 20rem;
+}

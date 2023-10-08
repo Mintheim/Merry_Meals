@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Homemade+Apple&family=Oswald:wght@500&family=Poppins:wght@200;400&display=swap");
+.care {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
+h2 {
+  color: rgb(49, 171, 232);
+}
+h3 {
+  color: rgb(49, 171, 232);
+}
+p {
+  text-align: justify;
+  line-height: 2;
+}
+
+.FAQ-care {
+  text-align: center;
+}

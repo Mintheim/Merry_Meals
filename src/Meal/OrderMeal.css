@@ -1,0 +1,27 @@
+/* .line {
+  border-bottom: 1px solid #cb0f0f;
+  line-height: 1.5;
+  padding: 30px;
+} */
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Homemade+Apple&family=Oswald:wght@500&family=Poppins:wght@200;400&display=swap");
+.order-meal-home {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
+.ordermeal-text {
+  text-align: center;
+}
+.check-meal {
+  text-decoration: none;
+}
+.order-btn {
+  text-decoration: none;
+}
+link {
+  text-decoration: none;
+}

@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Homemade+Apple&family=Oswald:wght@500&family=Poppins:wght@200;400&display=swap");
+.register-form {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
+.register-form {
+  background-color: #f1bb3d;
+}
+h5 {
+  text-align: center;
+}
+.or-separator span {
+  display: flex;
+  flex-direction: row;
+}
+
+.or-separator span:before,
+.or-separator span:after {
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid;
+  margin: auto;
+}
+
+.or-separator span:before {
+  margin-right: 10px;
+}
+
+.or-separator span:after {
+  margin-left: 10px;
+}
